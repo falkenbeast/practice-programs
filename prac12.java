@@ -1,3 +1,4 @@
+package practice;
 import java.util.*;
 public class prac12 {
         static String str;String rev;int count;static String str1;

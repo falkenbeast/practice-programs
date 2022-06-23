@@ -1,3 +1,4 @@
+package practice;
 public class prac6 {
         public static void main(String [] args)
         {

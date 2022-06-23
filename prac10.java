@@ -1,5 +1,6 @@
 // Java Program to reverse a String
 // without using inbuilt String function
+package practice;
 import java.util.regex.Pattern;
 public class prac10 {
   

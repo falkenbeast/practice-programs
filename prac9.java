@@ -1,3 +1,4 @@
+package practice;
 class prac9 
 {
         static void rec(String a)

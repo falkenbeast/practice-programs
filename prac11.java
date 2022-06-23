@@ -1,3 +1,4 @@
+package practice;
 import java.util.*;
 public class prac11 {
  public static String WordsInReverse(String str1) {

@@ -1,3 +1,4 @@
+package practice;
 class ainfo
 {
         public static void main(String []args)

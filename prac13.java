@@ -1,3 +1,4 @@
+package practice;
 class prac13 {
         public static void main(String args[]) {
           String s[] = "you shall not pass".split(" "); 

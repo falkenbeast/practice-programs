@@ -1,3 +1,4 @@
+package practice;
 class prac8
 {
         public static void main(String []args)
